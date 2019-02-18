@@ -32,28 +32,28 @@
     [
         "/home/user/sfdx/playground3/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1550498630268,
             "changeTime": 1550498630268,
-            "contentHash": "2d1cb845fdad054c8ee1c9d9f9ffd0f22a4d05e6"
+            "contentHash": "2d1cb845fdad054c8ee1c9d9f9ffd0f22a4d05e6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 4096,
-            "modifiedTime": 1550497885391,
-            "changeTime": 1550497885391,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 4096,
+            "modifiedTime": 1550499122793,
+            "changeTime": 1550499122793,
+            "isWorkspace": false,
+            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
         }
     ],
     [
@@ -322,14 +322,14 @@
     [
         "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "size": 156,
-            "modifiedTime": 1550497930533,
-            "changeTime": 1550497930533,
-            "contentHash": "f3f590857881ca3c0ed746a2c23effadffed7691",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 164,
+            "modifiedTime": 1550499192615,
+            "changeTime": 1550499192615,
+            "contentHash": "e0b0d8f06cbbf0f5141dd73dc821c34711bff828"
         }
     ],
     [
@@ -351,7 +351,7 @@
             "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
             "isDirectory": false,
             "size": 117,
-            "modifiedTime": 1550497916633,
+            "modifiedTime": 1550498993125,
             "changeTime": 1550497916633,
             "contentHash": "b38c346c8c8269f9c43bb0a729b033bea19637f2",
             "isMetadataFile": false,
@@ -426,92 +426,352 @@
     [
         "/home/user/sfdx/playground3/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1550498630252,
             "changeTime": 1550498630252,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/user/sfdx/playground3/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 19087,
             "modifiedTime": 1550498630276,
             "changeTime": 1550498630276,
-            "contentHash": "103528f22fd47f920db75db95482e2eda043e77e"
+            "contentHash": "103528f22fd47f920db75db95482e2eda043e77e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/user/sfdx/playground3/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5297,
             "modifiedTime": 1550498630280,
             "changeTime": 1550498630280,
-            "contentHash": "23d702c82d4aebdc46b0e36651f0168840ebbc74"
+            "contentHash": "23d702c82d4aebdc46b0e36651f0168840ebbc74",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/user/sfdx/playground3/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4957,
             "modifiedTime": 1550498630284,
             "changeTime": 1550498630284,
-            "contentHash": "b645af283a22f94dc1367bc45d684c83552a7428"
+            "contentHash": "b645af283a22f94dc1367bc45d684c83552a7428",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/user/sfdx/playground3/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4961,
             "modifiedTime": 1550498630292,
             "changeTime": 1550498630292,
-            "contentHash": "245c6941f55743f69459a0f17a5bbd72e22dfd16"
+            "contentHash": "245c6941f55743f69459a0f17a5bbd72e22dfd16",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/user/sfdx/playground3/geolocation/force-app/main/default/tabs",
         {
-            "state": "u",
             "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1550498630252,
             "changeTime": 1550498630252,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/home/user/sfdx/playground3/geolocation/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1550498630292,
             "changeTime": 1550498630292,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountList",
+        {
+            "state": "u",
+            "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1550499122797,
+            "changeTime": 1550499122797,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670"
+        }
+    ],
+    [
+        "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountListItem",
+        {
+            "state": "u",
+            "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountListItem",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1550499080046,
+            "changeTime": 1550499080046,
+            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf"
+        }
+    ],
+    [
+        "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1550499122797,
+            "changeTime": 1550499122797,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 331,
+            "modifiedTime": 1550499137905,
+            "changeTime": 1550499137905,
+            "contentHash": "b6f4b6d3febc372b11d32576c74cba05f3ee8cd3"
+        }
+    ],
+    [
+        "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 243,
+            "modifiedTime": 1550499122793,
+            "changeTime": 1550499122793,
+            "contentHash": "4f2b577ab9601eb150f6621671f3696ad60eccb1"
+        }
+    ],
+    [
+        "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+        {
+            "state": "u",
+            "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 101,
+            "modifiedTime": 1550499170043,
+            "changeTime": 1550499170043,
+            "contentHash": "1d172f8b300c05c1cc1b642e5a7b3bc8ffb022f0"
+        }
+    ],
+    [
+        "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+        {
+            "state": "u",
+            "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1550499122797,
+            "changeTime": 1550499122797,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+        {
+            "state": "u",
+            "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1550499122797,
+            "changeTime": 1550499122797,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+        {
+            "state": "u",
+            "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 255,
+            "modifiedTime": 1550499158059,
+            "changeTime": 1550499158059,
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef"
+        }
+    ],
+    [
+        "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1550499122793,
+            "changeTime": 1550499122793,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1550499122797,
+            "changeTime": 1550499122797,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+        }
+    ],
+    [
+        "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1550499080046,
+            "changeTime": 1550499080046,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 122,
+            "modifiedTime": 1550499097500,
+            "changeTime": 1550499097500,
+            "contentHash": "79ecebdb2899a19b282ac920e657ec8bb9476bec"
+        }
+    ],
+    [
+        "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 247,
+            "modifiedTime": 1550499080038,
+            "changeTime": 1550499080038,
+            "contentHash": "8b5ab5fcd0668e218a721bf09d43db5e8d9aba66"
+        }
+    ],
+    [
+        "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+        {
+            "state": "u",
+            "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 159,
+            "modifiedTime": 1550499109169,
+            "changeTime": 1550499109169,
+            "contentHash": "730c3b9df05f8edba4d7bc9840442010cadfd2d2"
+        }
+    ],
+    [
+        "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+        {
+            "state": "u",
+            "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1550499080046,
+            "changeTime": 1550499080046,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+        {
+            "state": "u",
+            "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1550499080042,
+            "changeTime": 1550499080042,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+        {
+            "state": "u",
+            "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1550499080042,
+            "changeTime": 1550499080042,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1550499080042,
+            "changeTime": 1550499080042,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/home/user/sfdx/playground3/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1550499080042,
+            "changeTime": 1550499080042,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
