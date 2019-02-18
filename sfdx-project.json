@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://playful-moose-j6r4wz-dev-ed.lightning.force.com/",
+  "sourceApiVersion": "45.0"
+}
